@@ -1,5 +1,6 @@
 import React from 'react'
 import axios from 'axios'
+import modal from 'bootstrap'
 import { useState } from 'react'
 import { Button, Row, Form } from 'react-bootstrap'
 import { useNavigate } from 'react-router-dom'
@@ -125,7 +126,7 @@ function Details() {
                                         placeholder="First Name"
                                         value={updateData.fname}
                                         onChange={(e) => setUpdateData({ ...updateData, fname: e.target.value })}
-                                    //isInvalid={!!errors.fname}
+                                    // isInvalid={!!errors.fname}
                                     />
                                 </Form.Group>
 
