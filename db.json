@@ -1,0 +1,59 @@
+{
+  "posts": [
+    {
+      "fname": "samrudhi",
+      "lname": "Gaikwad",
+      "location": "pune",
+      "pno": "9561358191",
+      "id": 1
+    },
+    {
+      "fname": "Akshay",
+      "lname": "Dakale",
+      "location": "Mumbai",
+      "pno": "9834651839",
+      "id": 2
+    },
+    {
+      "fname": "Rakhi",
+      "lname": "Gaikwad",
+      "location": "pune",
+      "pno": "123456789",
+      "id": 3
+    },
+    {
+      "fname": "priya",
+      "lname": "chaughule",
+      "location": "Pune",
+      "pno": "123456789",
+      "id": 4
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  },
+  "user": [
+    {
+      "email": "Samrudhi@gmail.com",
+      "phoneno": "9561358191",
+      "username": "Samu",
+      "password": "12345",
+      "id": 1
+    },
+    {
+      "email": "rakhi123@gmail.com",
+      "phoneno": "9561358191",
+      "username": "rakhi",
+      "password": "12345",
+      "id": 2
+    },
+    {
+      "email": "akshay123@gmail.com",
+      "username": "akshay",
+      "phoneno": "9834651839",
+      "password": "12345",
+      "id": 3
+    }
+  ]
+}
